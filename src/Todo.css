@@ -1,0 +1,9 @@
+.tod{
+    background-color: rgb(79, 126, 197);
+    color: white;
+ 
+}
+.tod:hover{
+    background: rgb(112, 126, 255);
+    color: black;
+    transition: .8s;}
